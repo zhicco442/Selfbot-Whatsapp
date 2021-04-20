@@ -2,19 +2,19 @@
   "name": "Selfbot-WA",
   "version": "0.0.3",
   "description": "example-beta",
-  "main": "vhtear.js",
+  "main": "zhicco.js",
   "directories": {
     "lib": "lib"
   },
   "scripts": {
     "test": "echo",
-    "start": "node vhtear.js"
+    "start": "node zhicco.js"
   },
   "keywords": [
     "whatsapp",
     "bot"
   ],
-  "author": "VHtear",
+  "author": "zhicco",
   "license": "GPL",
   "dependencies": {
     "@adiwajshing/baileys": "^3.4.1",

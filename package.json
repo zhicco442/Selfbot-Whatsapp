@@ -8,13 +8,13 @@
   },
   "scripts": {
     "test": "echo",
-    "start": "node vhtear.js"
+    "start": "node zhiccobot.js"
   },
   "keywords": [
     "whatsapp",
     "bot"
   ],
-  "author": "VHtear",
+  "author": "zhicco",
   "license": "GPL",
   "dependencies": {
     "@adiwajshing/baileys": "^3.4.1",

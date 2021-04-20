@@ -14,7 +14,7 @@
     "whatsapp",
     "bot"
   ],
-  "author": "VHtear",
+  "author": "zhicco",
   "license": "GPL",
   "dependencies": {
     "@adiwajshing/baileys": "^3.4.1",

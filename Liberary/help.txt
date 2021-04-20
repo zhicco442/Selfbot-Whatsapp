@@ -1,7 +1,5 @@
-->_<| *Beta VHSelfbot* |>_<-
+->_<| * ZHICCO BOT* |>_<-
 
-╔═══════════════╡
-║╭──❉ ZHICCO BOT ❉─────
 *Command :*
 
 * Me
@@ -110,12 +108,7 @@
 * Spadlock {query}|{query}
 * Giftext {query)
 * Sgiftext {query)
-nomor owner bot:https://wa.me/+6281212814187
-instagram owner bot;https://instagram.com/zhicco4421
-║╰────MR.CHAINNER─────
-║╰──── *SELFBOT ZHICCO* ─────
-╚═══════════════╡
 
 Rest API's : VHTear
 
-->_<| *Beta VHSelfbot* |>_<-
+->_<| *ZHICCO BOT* |>_<-

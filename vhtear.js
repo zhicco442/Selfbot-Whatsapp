@@ -9,6 +9,7 @@ CFonts.say('WELCOME TO MR.CHAINNER BOT|WA BOT ZHICCO', {
   align: 'center',
   gradient: ['red', 'magenta']
 })
+
 const {
 	WAConnection,
 	MessageType,

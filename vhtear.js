@@ -1,4 +1,4 @@
-const {
+ const {
 	WAConnection,
 	MessageType,
 	Presence,
@@ -1473,5 +1473,3 @@ async function SBVHtear() {
 }
 
 SBVHtear().catch((err) => console.log(`encountered error: ${err}`))
-
-

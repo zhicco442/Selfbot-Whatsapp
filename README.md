@@ -52,10 +52,33 @@ Script ini di modifikasi sama saya sendiri zhicco.
 > kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
 > pkg update && pkg upgrade
+$ git clone https://github.com/zhicco442/Selfbot-Whatsapp.git
+$ cd Selfbot-Whatsapp
+$ npm i
+```
+```sh
+$ apt-get update
+$ apt-get install git-all
+$ apt-get install nodejs-current
+$ apt-get install ffmpeg
+$ git clone https://github.com/zhicco442/Selfbot-Whatsapp.git
+$ cd Selfbot-Whatsapp
+$ npm i
 > pkg install git
 > pkg install bash
 >apt-get update
 >apt-get upgrade
+>$ git clone https://github.com/zhicco442/Selfbot-Whatsapp.git
+$ cd Selfbot-Whatsapp
+$ npm i
+```
+```sh
+$ apt-get update
+$ apt-get install git-all
+$ apt-get install nodejs-current
+$ apt-get install ffmpeg
+
+> pkg install bash
 >pkg install wget
 >pkg install ffmpeg
 >pkg install nodejs
@@ -66,6 +89,22 @@ Script ini di modifikasi sama saya sendiri zhicco.
 >npm i node-tesseract-ocr
 >npm i
 >npm i got
+>$ git clone https://github.com/zhicco442/Selfbot-Whatsapp.git
+$ cd Selfbot-Whatsapp
+$ npm i
+```
+cara di laptop
+```sh
+$ apt-get update
+$ apt-get install git-all
+$ apt-get install nodejs-current
+$ apt-get install ffmpeg
+$ git clone https://github.com/zhicco442/Selfbot-Whatsapp.git
+$ cd Selfbot-Whatsapp
+$ npm i
+
+```
+```
 wget -O ~/../usr/share/tessdata/ind.traineddata "https://github.com/tesseract-ocr/tessdata/blob/master/ind.traineddata?raw=true"
 
 # ![zhicco](https://vhtear.com/static/assets/img/brand/favicon.ico) Selfbot Whatsapp
@@ -97,30 +136,6 @@ APIKEY [VHtear](https://wa.me/6281238552767)
 
 First of all, you need to install [Git](https://git-scm.com/download/win) & [NodeJS](https://nodejs.org/). Then open your git bash, and follow this:<br>
 ```sh
-$ git clone https://github.com/zhicco442/Selfbot-Whatsapp.git
-$ cd Selfbot-Whatsapp
-$ npm i
-```
-```sh
-$ apt-get update
-$ apt-get install git-all
-$ apt-get install nodejs-current
-$ apt-get install ffmpeg
-$ git clone https://github.com/zhicco442/Selfbot-Whatsapp.git
-$ cd Selfbot-Whatsapp
-$ npm i
-```
-
-## How to run
-
-```sh
-$ node zhicco.js
-```
-or<br>
-```sh
-$ npm start
-```
-
 ## What is WA Selfbot ?
 
 WhatsApp Web API - This script is just for example *VHtear API's* request 
